@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSLocalization_Example' do
+  pod 'iOSLocalization', :path => '../'
+
+  target 'iOSLocalization_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
