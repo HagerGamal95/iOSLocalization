@@ -1,0 +1,22 @@
+{
+  "name": "iOSLocalization",
+  "version": "0.1.0",
+  "summary": "A short description of iOSLocalization.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hager gamal/iOSLocalization",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hager gamal": "hager.gamal@linkdev.com"
+  },
+  "source": {
+    "git": "https://github.com/hager gamal/iOSLocalization.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSLocalization/Classes/**/*"
+}

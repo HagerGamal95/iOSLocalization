@@ -1,0 +1,6 @@
+framework module iOSLocalization {
+  umbrella header "iOSLocalization-umbrella.h"
+
+  export *
+  module * { export * }
+}

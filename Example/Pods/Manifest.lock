@@ -1,0 +1,16 @@
+PODS:
+  - iOSLocalization (0.1.0)
+
+DEPENDENCIES:
+  - iOSLocalization (from `../`)
+
+EXTERNAL SOURCES:
+  iOSLocalization:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSLocalization: 9919633f074cfdd4c6ef94baadb67fa4bed250d3
+
+PODFILE CHECKSUM: 6c87be2a6716c43e137b10bb99573587b17c114f
+
+COCOAPODS: 1.9.1
